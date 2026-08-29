@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepbhavyasri sonti
+- 👋 Hi, I’m @Deepabhavyasri sonti
 - 👀 I’m interested in ...visiting new places & tasting new food items
 - 🌱 I’m currently learning ... computer science and engineering
 - 💞️ my favourite place is.....Paris...
