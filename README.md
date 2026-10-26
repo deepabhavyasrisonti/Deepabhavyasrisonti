@@ -6,6 +6,6 @@
 - ⚡ Fun fact: ...when a girl is quite..then millions of thoughts are running in her mind...
 
 <!---
-Deepbhavyasrisonti/Deepbhavyasrisonti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deepbhavyasrisonti/Deepabhavyasrisonti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
