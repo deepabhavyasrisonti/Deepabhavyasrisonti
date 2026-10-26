@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Deepabhavyasri sonti
-- 👀 I’m interested in ...visiting new places & tasting new food items
-- 🌱 I’m Graduated.... computer science and engineering
-- 💞️ my favourite place is.....Paris...
-- 📫 How to reach me ...India,Andhra pradesh,NTR,vijayawada,Ajithsingh nagar....
-- ⚡ Fun fact: ...when a girl is quite..then millions of thoughts are running in her mind...
+- 👋 Hi, I’m @Deepabhavyasrisonti
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Generative AI, and exploring new places.
+- 🌱 I’m a Computer Science and Engineering graduate passionate about AI/ML, software development, and building innovative projects.
+- 💞️ My favourite place is Paris ✨
+- 📫 How to reach me: [deepabhavyasrisonti@gmail.com](mailto:deepabhavyasrisonti@gmail.com) 📧
+- ⚡ Fun fact: Dream big, stay curious, and turn every little idea into something extraordinary! 🌸💻✨
 
 <!---
 Deepbhavyasrisonti/Deepabhavyasrisonti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
